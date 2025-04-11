@@ -7,7 +7,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Serenity Prayer</title>
-</head>
+<!-- </head> best practice to have style embedded in head-->
   <style>
     body {
       margin: 0;
@@ -85,7 +85,7 @@
     }
 
   </style>
-
+</head>
 <body>
   <div class="background">
       <div class="flag-buttons">
@@ -94,7 +94,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="German" id="flag-german" title="Deutsch" />
       </div>
 
-      <div class="card">
+      <div class="card">  <!-- could be optimized; map or loop; DRY -->
         <h2 id="prayer-title">Het Gebed om Kalmte</h2>
         <p id="line1">God, geef me de kalmte</p>
         <p id="line2">om te aanvaarden wat ik niet kan veranderen,</p>
