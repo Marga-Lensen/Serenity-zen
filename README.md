@@ -1,3 +1,6 @@
+[Deployment Link](https://serenity-zen.vercel.app/) ![Screenshot](assets/screenshot1.png)
+
+#
 [deployment on vercel](https://serenity-zen.vercel.app/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -8,4 +11,3 @@
 </div>
 
 #
-[Deployment Link](https://serenity-zen.vercel.app/) ![Screenshot](assets/screenshot1.png)
